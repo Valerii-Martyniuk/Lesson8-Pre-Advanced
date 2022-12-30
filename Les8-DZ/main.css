@@ -1,0 +1,27 @@
+span {
+  font-weight: bold;
+}
+.container {
+  width: 700px;
+}
+d {
+  width: 100%;
+}
+textarea {
+  margin-top: 10px;
+}
+.btn {
+  width: 70px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+}
+.bottom-btn {
+  background-color: green;
+}
+.add-btn {
+  background-color: yellow;
+}
+.reset-btn {
+  background-color: red;
+}
